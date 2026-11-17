@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Q1",
+    "question": "What is the capital of France?",
+    "expected_output": "Paris"
+  },
+  {
+    "id": "Q2",
+    "question": "What is 25 * 16?",
+    "expected_output": "400"
+  },
+  {
+    "id": "Q3",
+    "question": "Which HTTP status code indicates a resource was not found?",
+    "expected_output": "404 Not Found"
+  },
+  {
+    "id": "Q4",
+    "question": "What is the primary language recommended by Google for modern Android development?",
+    "expected_output": "Kotlin"
+  },
+  {
+    "id": "Q5",
+    "question": "Briefly explain photosynthesis.",
+    "expected_output": "Plants convert sunlight, water, and carbon dioxide into glucose and oxygen."
+  },
+  {
+    "id": "Q6",
+    "question": "What is the time complexity of binary search?",
+    "expected_output": "O(log n)"
+  }
+]
